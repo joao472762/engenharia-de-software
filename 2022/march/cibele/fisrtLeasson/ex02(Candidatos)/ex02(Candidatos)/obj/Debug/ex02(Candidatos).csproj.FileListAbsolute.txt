@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\bin\Debug\ex02(Candidatos).exe.config
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\bin\Debug\ex02(Candidatos).exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\bin\Debug\ex02(Candidatos).pdb
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\obj\Debug\ex02(Candidatos).csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\obj\Debug\ex02(Candidatos).csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\obj\Debug\ex02(Candidatos).csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\obj\Debug\ex02(Candidatos).exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\ex02(Candidatos)\ex02(Candidatos)\obj\Debug\ex02(Candidatos).pdb
