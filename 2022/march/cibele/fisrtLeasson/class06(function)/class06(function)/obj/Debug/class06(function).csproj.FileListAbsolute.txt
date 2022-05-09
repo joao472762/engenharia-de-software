@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\bin\Debug\class06(function).exe.config
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\bin\Debug\class06(function).exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\bin\Debug\class06(function).pdb
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\obj\Debug\class06(function).csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\obj\Debug\class06(function).csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\obj\Debug\class06(function).csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\obj\Debug\class06(function).exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\fisrtLeasson\class06(function)\class06(function)\obj\Debug\class06(function).pdb

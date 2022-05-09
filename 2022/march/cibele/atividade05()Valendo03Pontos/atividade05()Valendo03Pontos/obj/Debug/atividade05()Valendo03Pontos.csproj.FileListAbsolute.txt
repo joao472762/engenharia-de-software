@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\bin\Debug\atividade05()Valendo03Pontos.exe.config
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\bin\Debug\atividade05()Valendo03Pontos.exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\bin\Debug\atividade05()Valendo03Pontos.pdb
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\obj\Debug\atividade05()Valendo03Pontos.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\obj\Debug\atividade05()Valendo03Pontos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\obj\Debug\atividade05()Valendo03Pontos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\obj\Debug\atividade05()Valendo03Pontos.exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\engenharia-de-software\2022\march\cibele\atividade05()Valendo03Pontos\atividade05()Valendo03Pontos\obj\Debug\atividade05()Valendo03Pontos.pdb

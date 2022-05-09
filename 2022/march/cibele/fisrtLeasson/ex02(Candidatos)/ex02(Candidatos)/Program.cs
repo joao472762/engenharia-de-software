@@ -25,8 +25,8 @@ namespace ex02_Candidatos_
             double percCand02 = (cand02 / eleitores) * 100;
             double nulos = (eleitores - (cand01 + cand02)) / eleitores * 100;
 
-            Console.WriteLine("Resultados \n PercCand1: " + percCand1 + "\n PercCand2 : " + percCand02 +
-                "\n Nulos" + nulos);
+            Console.WriteLine("Resultados \n PercCand1 : " + percCand1 + "\n PercCand2 : " + percCand02 +
+                "\n Nulos : " + nulos);
 
             Console.ReadLine();
 
