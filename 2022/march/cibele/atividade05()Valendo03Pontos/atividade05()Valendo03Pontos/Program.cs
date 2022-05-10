@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
-nome: João Victor de Souza Oliveira
-rgm: 
+nome: João Victor de Souza Oliveira (Engenharia) , Luiz Fernando Alves de Souza (S.I)
+rgm:  11221104721, 11221104808
  */
 namespace atividade05__Valendo03Pontos
 {
