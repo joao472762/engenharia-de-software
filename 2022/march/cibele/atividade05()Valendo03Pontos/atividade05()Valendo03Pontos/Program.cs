@@ -20,14 +20,14 @@ namespace atividade05__Valendo03Pontos
             double mediaF = 0;
             int countM = 0;
             int countF = 0;
-            double sm = 724;//consertar o valor do salário
+            double sm = 724;
 
 
             //variáveis adicio nada por  mim obs: questionar o professo sobre o escopo de variáveis no C#
             double salarioMaior = 0;
             double NumMaior = 0;
-            
 
+            Console.WriteLine("salários dos operários");
 
             for (int count  = 1; count <= 15; count++)
             {
